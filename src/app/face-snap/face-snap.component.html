@@ -1,7 +1,4 @@
-<div class="face-snap-card" [ngClass]="{snapped:IsSnapped}">
-    <p>{{12345.984 | number: '1.0-2'}}</p> 
-    <p>{{0.336 | percent :'1.2-2'}}</p>
-    <p>{{35.23 | currency :'EUR':'code'}}</p>
+<div class="face-snap-card" [ngClass]="{snapped:IsSnapped}"> 
     <h2>{{faceSnap.title | titlecase}}</h2>
     <button (click)="onViewFaceSnap()">VIEW</button>
 </div>
