@@ -1,6 +1,8 @@
 # Snapface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+<img width="1227" alt="Capture d’écran 2022-01-13 à 23 54 20" src="https://user-images.githubusercontent.com/18016644/149421750-29391766-f9b6-4197-96bb-f693dc304944.png">
+
 
 ## Development server
 
